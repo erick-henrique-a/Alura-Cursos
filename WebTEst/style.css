@@ -1,0 +1,20 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.sub-titulo{
+    display: flex;
+    justify-content: center;
+}
+.itens-nav{
+    display: flex;
+    justify-content: flex-end;
+}
+main{
+    padding: 1%;
+}
+.footer{
+    display: flex;
+    align-items: flex-end;
+    height: 10vh;
+}
